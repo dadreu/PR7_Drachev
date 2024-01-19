@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\App.g.cs
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev_MarkupCompile.cache
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev_MarkupCompile.lref
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\bin\Debug\PR7_Drachev.exe.config
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\bin\Debug\PR7_Drachev.exe
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\bin\Debug\PR7_Drachev.pdb
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.g.resources
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.Properties.Resources.resources
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.exe
+C:\Users\User\Desktop\FurnitureStore_Drachev\PR7_Drachev\PR7_Drachev\obj\Debug\PR7_Drachev.pdb

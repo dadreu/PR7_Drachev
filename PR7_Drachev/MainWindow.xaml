@@ -5,8 +5,41 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PR7_Drachev"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+               Title="MainWindow" Height="550" Width="800">
     <Grid>
-        
+        <Border>
+            <Grid Background="DarkGray">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Menu  HorizontalAlignment="Left" Width="215">
+                    <MenuItem BorderThickness="1" BorderBrush="DarkGray" Header="Добавить фигуру" Width="215" Height="40">
+                        <MenuItem Header="Добавить круг" Width="210" Margin="0" Click="AddCircle_Click"/>
+                        <MenuItem Header="Добавить треугольник" Width="210" Click="AddTiangle_Click"/>
+                        <MenuItem Header="Плоскость" Width="210" Click="CoordinatePlane_Click"/>
+                    </MenuItem>
+                </Menu>
+                <Menu  HorizontalAlignment="Left" Width="215" Margin="214,0,0,0">
+                    <MenuItem BorderThickness="1" BorderBrush="DarkGray" Header="Отчистить холст" Width="215" Height="40" Click="Clear_Click">
+                    </MenuItem>
+                </Menu>
+                <TextBlock VerticalAlignment="Center" FontSize="16" Margin="450,0,0,0">
+                    <Label Content="Центр фигуры"/>
+                </TextBlock>
+                <TextBlock VerticalAlignment="Center" FontSize="16" Margin="570,0,0,0">
+                    <Label Content="X:"/>
+                </TextBlock>
+                <TextBlock VerticalAlignment="Center" FontSize="16" Margin="670,0,0,0">
+                    <Label Content="Y:"/>
+                </TextBlock>
+                <TextBox x:Name="xAxisAdd" Width="50" Height="30" FontSize="16" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="600,0,0,0"/>
+                <TextBox x:Name="yAxisAdd" Width="50" Height="30" FontSize="16" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="700,0,0,0"/>
+                <Canvas x:Name="canvas" Grid.Row="1" Background="AliceBlue">
+
+                </Canvas>
+            </Grid>
+        </Border>
     </Grid>
 </Window>
+
